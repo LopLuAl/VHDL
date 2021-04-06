@@ -1,0 +1,7 @@
+vhdl work "myEdgeDetector.vhd"
+vhdl work "myCnt.vhd"
+vhdl work "myUartTx.vhd"
+vhdl work "myUartRx.vhd"
+vhdl work "pwm.vhd"
+vhdl work "myUart.vhd"
+vhdl work "myUartPwm.vhd"

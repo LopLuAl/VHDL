@@ -1,0 +1,5 @@
+NET "clk" 		LOC = T8;
+NET "tx" 		LOC = D12;
+
+NET "rst" 		LOC = L3;
+NET "btn" 	    LOC = C3;

@@ -1,0 +1,8 @@
+NET "clk" LOC = T8;
+NET "rst" LOC = C3;
+NET "ena" LOC = E4;
+NET "salida(0)" LOC = P4;
+NET "salida(1)" LOC = N5;
+NET "salida(2)" LOC = P5;
+NET "salida(3)" LOC = M6;
+

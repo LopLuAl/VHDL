@@ -1,0 +1,13 @@
+NET "clk" 		LOC = T8;
+NET "rx" 		LOC = c11;
+
+NET "rst" 		LOC = L3;
+NET "LED(0)" 		LOC = P4;
+NET "LED(1)" 		LOC = N5;
+NET "LED(2)" 		LOC = P5;
+NET "LED(3)" 		LOC = M6;
+
+NET "LED(4)" 		LOC = K12;
+NET "LED(5)" 		LOC = L14;
+NET "LED(6)" 		LOC = J13;
+NET "LED(7)" 		LOC = G11;

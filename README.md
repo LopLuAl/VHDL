@@ -1,2 +1,2 @@
 # VHDL
-Ejemplos en VHDL - }Tecnicas Digitales I
+Ejemplos en VHDL - Tecnicas Digitales I
